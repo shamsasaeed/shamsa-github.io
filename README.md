@@ -1,8 +1,8 @@
-# shamsasaeed.github.io
-
 # My Own Website
 
-# Art Gallery Musuem 
+# shamsasaeed.github.io
+
+## Art Gallery Musuem 
 
 ## Inspiration:
 
@@ -19,12 +19,12 @@
 ## Code and Code Explanation: P5.js 
  
 
-# Design: 
+## Design: 
 
 
-# Conclusion:
+## Conclusion:
 
 
-# Refrences 
+## Refrences 
 
 
