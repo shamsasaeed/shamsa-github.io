@@ -3,7 +3,7 @@
 /* Background image, margin, and font for website */
 
 body{
-  background-image: url("images/background.jpg");
+  background-image: url("Images/background.jpg");
   margin: 0 5px;
   font-family: verdana;
 }
