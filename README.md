@@ -11,11 +11,7 @@ I got inspired to create the theme of my website after doing our video exercise 
 My website starts off with a main page, welcoming the audience into the space of the Art Gallery. I have creater a header with the different pages including a HOME, ABOUT, VIDEO, and CONTACT page for the user to directly move to a specific page if they wanted to. If the user scolls down, he or she will see a 'scroll here' text and when they scroll the text will change and show them a cute text. Further below I have added a footer, with ny name to show that I am the creater of this website. I have also placed a NEXT button for the user to transfer to the second page. In the second page, I have added short bullet point descriptions of the Art Gallery and images below for the audience to get an idea of what the Gallery is about and what they will be expecting the next page, which will be the video trailer. In the third page I have added the video of the Art Gallery trailer which is displayed as a YouTube video. I first had to publish the video in YouTube then I added a link for it to dispaly on my website. Finally, in the last page, I have added some behind the scenes photos and me and group's contact emails for the audeince to email us about anything they wish to ask or say.
 
 ## Some important contributors I used in my website:
-I firstly worked with HTML, where I set up the texts 
-
-Secondly, I worked with CSS, where I 
-
-Thirdly, I worked with Javascript, where I
+I firstly worked with HTML, where I set up class, div, header, footer, images, videos, and texts that I wanted to display throughout my website. Secondly, I worked with CSS, where I added the background, the button designing since I wanted it to have a specific color, shape, and shadow effect, I also added the texts' sizes, fonts, and colors which were different depending on whether it was a title, sub-title, or a description on the website. Thirdly, I worked with Javascript, where I added in the first page. The effect I used was that if the used scrolled on a specific text that read 'scroll here' then the texxt would change, giving the user a secret message.
 
 ## Hardships and Coding process:
 I have faced several challenges during my coding process. For example, 
@@ -37,5 +33,5 @@ Some improvements I want to make in the suture would be:
 - A comment a user can send me for feedback.
 
 ## References 
-- w3schools.com . Website
-- période . Youtube
+- w3schools.com - Website
+- période - Youtube
