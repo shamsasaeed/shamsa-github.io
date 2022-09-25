@@ -14,13 +14,16 @@ My website starts off with a main page, welcoming the audience into the space of
 I firstly worked with HTML, where I set up class, div, header, footer, images, videos, and texts that I wanted to display throughout my website. Secondly, I worked with CSS, where I added the background, the button designing since I wanted it to have a specific color, shape, and shadow effect, I also added the texts' sizes, fonts, and colors which were different depending on whether it was a title, sub-title, or a description on the website. Thirdly, I worked with Javascript, where I added in the first page. The effect I used was that if the used scrolled on a specific text that read 'scroll here' then the texxt would change, giving the user a secret message.
 
 ## Hardships and Coding process:
-I have faced several challenges during my coding process. For example, 
+I have faced several challenges during my coding process. 
+- One challenge I have faced was that the header kept appearing at the top instead of at the bottom. I spent nearly two hours trying to figure out why the header was at the bottom even after adding the float code. I later found out that the reason that the header wasn't at the top wasn't because the code was wrong, but it was because the placement of the code should've been put before I added the layout code in that web page. 
+- Another challenge I have faced was that when I wanted to add the scrolling effect on the pages, I had to put all the HTML pages in one page. This took a long time and it messed up my code in the end so I decided to remove the code for the scrolling effect.
+- A third challenge I have faced was with java script, where I couldn't find a simple code to fit in my webiste. After a lot of researching and thinking, I have decided to use a code that would change the text when the user scrolled on that text.
 
 ## Code and Code Explanation: 
-For the code, I seperated four HTML tabs for each page, then I created a CSS file for all the designs since some of them had the same elements.
+For the code, I seperated four HTML tabs for each page, then I created a CSS file for all the designs since some of them had the same elements. Then I finally added the Javascript, which was only a few lines of code.
 
 ## Design: 
-For the design, I first started to exxperiment with different colors for the website.
+For the design, I first started to experiment with different colors for the website. I went for soft tones that included beige, yellow beige, grey, brown beige. Playing with different beige colors turned out to compliment each other and I loved how it turned out to look like. For the yellow beige, I decided to use it to add lines to give the pages more character for the page not to be too plain. I used the beige as the background because I wanted to compliment the other beige colors and the grey as well. I used the brown beige and grey for the colors because tey were a bit darker than the beige and yellow beige so the text would show clearly and the user wouldn't have any problems while reading the texts. For the images, I decided to place them  evenly in a square shape position.
 
 ## Conclusion:
 In conclusion, this was my first ever website that I have created, and even though it took many days, lots of errors, and tons of code writing, I was very proud of the output I have ended up with.
