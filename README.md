@@ -36,5 +36,5 @@ Some improvements I want to make in the suture would be:
 - A comment a user can send me for feedback.
 
 ## References 
-- w3schools.com - Website
-- période - Youtube
+- w3schools.com - [Website](https://www.w3schools.com/)
+- période - [Youtube](https://www.youtube.com/channel/UCwojeYJ6RVIWoe2_3a1SmYg/videos)
