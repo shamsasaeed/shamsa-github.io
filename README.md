@@ -20,13 +20,13 @@ I have faced several challenges during my coding process.
 - A third challenge I have faced was with java script, where I couldn't find a simple code to fit in my webiste. After a lot of researching and thinking, I have decided to use a code that would change the text when the user scrolled on that text.
 
 ## Code and Code Explanation: 
-For the code, I seperated four HTML tabs for each page, then I created a CSS file for all the designs since some of them had the same elements. Then I finally added the Javascript, which was only a few lines of code.
+For the code, I seperated four HTML tabs for each page, then I created a CSS file for all the designs since some of them had the same elements. Then I finally added the Javascript, which was only a few lines of code. In the first HTML tab, 
 
 ## Design: 
 For the design, I first started to experiment with different colors for the website. I went for soft tones that included beige, yellow beige, grey, brown beige. Playing with different beige colors turned out to compliment each other and I loved how it turned out to look like. For the yellow beige, I decided to use it to add lines to give the pages more character for the page not to be too plain. I used the beige as the background because I wanted to compliment the other beige colors and the grey as well. I used the brown beige and grey for the colors because tey were a bit darker than the beige and yellow beige so the text would show clearly and the user wouldn't have any problems while reading the texts. For the images, I decided to place them  evenly in a square shape position.
 
 ## Conclusion:
-In conclusion, this was my first ever website that I have created, and even though it took many days, lots of errors, and tons of code writing, I was very proud of the output I have ended up with.
+In conclusion, this project had a lot of ups and downs. I loved the fact that it was challenging because it forced me to make mistakes and fixed the errors. However, the challenging part did take me long hours and long nights for me to work with, thankfully I managed to fix most of the challenges and I was very proud of it. This was my first ever website that I have created, and even though it took many days, lots of errors, and tons of code writing, I was very proud of the output I have ended up with. I showed my friends and family my website and I got tons of positive feedback, and some comments of what I could improve upon in the future.
 
 ## Improvements I want to make in the future:
 Some improvements I want to make in the suture would be: 
