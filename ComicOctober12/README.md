@@ -12,11 +12,13 @@ This story we created was simple but its moral value is quite significant. It ha
 
 The process of our project consisted of regular meetings through which we discussed our different parts and combined our works together. The first part was of course creating the wireframe, which after discussing our comic, Shaikha took the initiative to create on the designing website Canva. 
 Below are copies of parts of the wireframe: 
-(Attach images)
+
 
 Moving forward we began working on the coding as well as display aspect of our actual website. Ensuring that we created original content and not utilized visuals that were remade by different websites, Shaikha began by sketching out the outline of the characters using Illustrator and Dhabia edited a set of backgrounds using Photoshop. Below are images that portray the process:
 
-![Before]()
+![Before](https://github.com/shamsasaeed/shamsasaeed.github.io/blob/main/before.jpg)
+
+![After](https://github.com/shamsasaeed/shamsasaeed.github.io/blob/main/after.jpg)
 
 Choosing the black outline for the characters was a stylistic choice that we made to give our comic the conventional comic book look. This was quite challenging at first, especially when trying to layer the characters on top of backgrounds, that is because the backgrounds were initially quite bright in color, making the characters hardly visible. We fixed this issue by increasing the blurriness of the images on Photoshop and lowering their saturation. Below are images that show the difference between our initial panels and our current: 
 (Attach images)
