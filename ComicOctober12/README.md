@@ -1,5 +1,3 @@
-Documentation 
-
 ## Introduction:
 
 We started off by brainstorming different ideas on what exactly we wanted our comic to be about. Initially we thought of recreating well known novels that we were very fond of as children. However we decided to take a different route that is original and unique to us.
@@ -48,7 +46,7 @@ Below is a sample of the code, and how it looked on the webpage:
 Finally, we met and discussed the project as a whole and looked at the final result as shown below while also getting the opinion of friends to see what could be improved or changed. 
 (Attach video of website)
   
-Things We Learnt:
+## Things We Learnt:
 
 We learnt quite a few things in terms of how to create comic’s in the best visually attractive and morally significant way. We followed the steps listed by McCloud closely when making decisions on the visual aspect of the panels as well as the written content. 
 
