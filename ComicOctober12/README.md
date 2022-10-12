@@ -11,8 +11,6 @@ This story we created was simple but its moral value is quite significant. It ha
 ## Process and Challenges:
 
 The process of our project consisted of regular meetings through which we discussed our different parts and combined our works together. The first part was of course creating the wireframe, which after discussing our comic, Shaikha took the initiative to create on the designing website Canva. 
-Below are copies of parts of the wireframe: 
-
 
 Moving forward we began working on the coding as well as display aspect of our actual website. Ensuring that we created original content and not utilized visuals that were remade by different websites, Shaikha began by sketching out the outline of the characters using Illustrator and Dhabia edited a set of backgrounds using Photoshop. Below are images that portray the process:
 
@@ -35,7 +33,7 @@ With that said there were a few things that are worth being pointed out as princ
 Finally, this is what that portion of code looked like, and it worked perfectly for what we were planning:
 (Attach piece of code) Moving on from there we began incorporating the visuals of our characters onto the backgrounds. Shaikha was responsible for that part of the animation, she worked on splitting the outlines of the characters from the dollar bills to code each one separately and have the dollar bill enter into the panel in an animated manner.
 	
-Initially the reliance was mainly on the tutorials available on BrightSpace, however further research for different ways to perform different effects was required. Through the research done the part of link for the code example shown below was inspired. 
+Initially the reliance was mainly on the tutorials available on BrightSpace, however further research for different ways to perform different effects was required, website that helped us was [this](https://www.w3schools.com/) website. Through the research that was done, the part of link for some of the code was the example shown below which was inspired. 
 
 [Code Inspiration](https://drive.google.com/drive/folders/1CwlkQnpdmPgq_iP26e2BhKOeLOEjK3Nx)
 
