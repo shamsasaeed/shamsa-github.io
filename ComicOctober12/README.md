@@ -30,6 +30,8 @@ Once we were done with preparing the visual aspect of the panels we went into th
 
 With that said there were a few things that are worth being pointed out as principles that were learnt through this process. First of all, a challenge that we encountered in the beginning was figuring out how to control the placement of the text. This made the comic visualization a bit messy since we could not move the text where we exactly wanted, it was placed under certain images and looked unpleasant, however after researching we found the code that helped us fix that issue. Another challenge was the specific part that was responsible for granting the dollar bill the effect of flying into the panel. It was a bit of challenge to figure out how to direct the dollar bill and have it enter from different sides of the panel, however that issue was also resolved after testing out different codes. I will be placing an example below of the text placement.
 
+![code](https://github.com/shamsasaeed/shamsasaeed.github.io/blob/main/codeissue.png)
+
 Finally, this is what that portion of code looked like, and it worked perfectly for what we were planning:
 (Attach piece of code) Moving on from there we began incorporating the visuals of our characters onto the backgrounds. Shaikha was responsible for that part of the animation, she worked on splitting the outlines of the characters from the dollar bills to code each one separately and have the dollar bill enter into the panel in an animated manner.
 	
