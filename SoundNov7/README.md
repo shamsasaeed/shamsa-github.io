@@ -12,6 +12,10 @@
 
 ### Process and Coding 
 
+Choosing the theme of the website that is appropriate to the mood of our soundscape was the most challenging part of coding. We initially designed the website to be in a simple playlist style (like that of Spotify), but we felt the website must hint to visitors that our audio is about cellphones. For this reason, we slightly modified our design so that the visitors can use the cellphone image as a play button as shown above. Using HTML and CSS, I was able to make a page that shows a smartphone with a play button. Instead of putting a play button that we see in most video players, I decided to use a headphone image to make sure visitors are aware that only sound will be played. Using Javascript, I was able to make an audio play and stop when the button is clicked. 
+
+<em>Character bubbles</em> that are floating around the page while the audio is playing are solely made using Javascript. Using a Javascript feature that allows me to keep track of time in milliseconds, I made bubbles move in a random initial direction by certain pixels every 100ms and bounce off when they hit the border. Making certain bubbles appear and disappear was done by making bubbles visible or hidden at a specific time. These specific times were manually written down on the paper after the soundscape was done. I went through several trial-and-error processes to make the timing perfect.
+
 ### Sound recording and effect
 
 ### Design and Conclusion
