@@ -7,6 +7,15 @@
 * Shamsa
 * Tim
 * Yashaswi
+# The Phone Call
+
+![](https://github.com/yashaswiim/the_phone_call/blob/main/assets/the_phone_call_.png)
+
+### Group Members
+* Luke
+* Shamsa
+* Tim
+* Yashaswi
 
 ### Project Concept and Summary
 
@@ -17,6 +26,12 @@ Choosing the theme of the website that is appropriate to the mood of our soundsc
 <em>Character bubbles</em> that are floating around the page while the audio is playing are solely made using Javascript. Using a Javascript feature that allows me to keep track of time in milliseconds, I made bubbles move in a random initial direction by certain pixels every 100ms and bounce off when they hit the border. Making certain bubbles appear and disappear was done by making bubbles visible or hidden at a specific time. These specific times were manually written down on the paper after the soundscape was done. I went through several trial-and-error processes to make the timing perfect.
 
 ### Sound recording and effect
+
+Tim, Yashaswi, and Shamsa came up with the idea and wrote the script, which included the sound effects and ambience our group wanted to have. Then I carried on making it. We recorded 2 takes of the script in the Soundstage (room 025) using the H4N recorder that we were given access to by the Equipment Center. Although the room in which we recorded was in complete silence (ie. no AC sound and no other people besides us), we realized that the sound quality of the recordings were not super clear; there was some static in the them, which could be an error pertaining to the H4N recorder. I had to therefore used the Noise Reduction feature in Audacity to remove this static, by experimenting with different combinations of parameters. I also applied the Pitch Changing effect to the Radio Reporter voice and the Narrator voice to make them sound as if they are from different characters. Moreover, I also used EQ to create the radio effect for the radio reporter voice. 
+
+The sound mixing and designing was the most enjoyable part. Because most of the sounds required for our sound story could not be recorded easily as they demand professional foley work, I decided to look for royalty-free, copyright-free sound effects and ambience online, especially on Youtube. Then I created/sketched out an assembly on Davinci Resolve (just to ease the workflow as there were so many layers of sound), consisting of multiple layers of sound including the original recording and the sound effects + ambience. Going through multiple drafts as I incorporated Tim, Yashaswi, and Shamsa's suggestions into the mixing, I shifted things around, chose where to start and where to end the sound effects and ambience, and if needed to, I created new sound effects from the files I had. Towards the ending, I used Reverb to add make the character Joe's coughing echo as if we are in a big room to hopefully make the effect more jarring and impactful. The soundscape then ends with the poignant piano music and gradually fades out. 
+
+Again, the entire mixing is completed based on the script we had in the beginning.
 
 ### Design and Conclusion
 
