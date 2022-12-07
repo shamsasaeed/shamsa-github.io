@@ -1,4 +1,4 @@
-# Virtual Reality Game
+# Virtual Reality Game : Impermanent Realities
 
 ## Group Members
 
