@@ -1,6 +1,6 @@
 # The Phone Call
 
-![](https://github.com/shamsasaeed/the_phone_call/blob/main/assets/the_phone_call_.png)
+![](https://github.com/shamsasaeed/shamsasaeed.github.io/blob/main/PhoneCall/assets/the_phone_call_.png)
 
 ### Group Members
 * Luke
