@@ -1,6 +1,6 @@
 # My Own Website
 
-# [Click Here to Visit my Website](shamsasaeed.github.io)
+# [Click Here to Visit my Website](shamsasaeed.github.io/ArtGallery)
 
 ## Art Gallery Musuem 
 
@@ -38,3 +38,4 @@ Some improvements I want to make in the suture would be:
 ## References 
 - w3schools.com - [Website](https://www.w3schools.com/)
 - période - [Youtube](https://www.youtube.com/channel/UCwojeYJ6RVIWoe2_3a1SmYg/videos)
+
