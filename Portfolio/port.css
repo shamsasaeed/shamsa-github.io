@@ -1,0 +1,232 @@
+
+
+/* Header */
+
+.topnav {
+  overflow: hidden;
+  background-color: hsla(26, 58%, 23%, 1);
+
+background: linear-gradient(90deg, hsla(26, 58%, 23%, 1) 0%, hsla(30, 62%, 95%, 1) 0%);
+
+background: -moz-linear-gradient(90deg, hsla(26, 58%, 23%, 1) 0%, hsla(30, 62%, 95%, 1) 0%);
+
+background: -webkit-linear-gradient(90deg, hsla(26, 58%, 23%, 1) 0%, hsla(30, 62%, 95%, 1) 0%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#5E3719", endColorstr="#FAF2EA", GradientType=1 );}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.topnav a:hover {
+  background-color: white;
+  color: grey;
+}
+
+.topnav a.active {
+  background-color: white;
+  color: black;
+}
+
+/* page border */
+
+#whitebox {
+  border: none;
+  padding: 5px;
+  background: hsla(26, 58%, 23%, 1);
+
+background: linear-gradient(90deg, hsla(26, 58%, 23%, 1) 0%, hsla(30, 62%, 95%, 1) 0%);
+
+background: -moz-linear-gradient(90deg, hsla(26, 58%, 23%, 1) 0%, hsla(30, 62%, 95%, 1) 0%);
+
+background: -webkit-linear-gradient(90deg, hsla(26, 58%, 23%, 1) 0%, hsla(30, 62%, 95%, 1) 0%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#5E3719", endColorstr="#FAF2EA", GradientType=1 );;
+  background-clip: border-box;
+}
+
+html{
+	/* Set height of the html page to 100% of the browser height */
+	height: 100%;
+	/* Hide horizontal scroll */
+	overflow-x: hidden;
+	font-family: 'Helvetica', sans-serif;
+}
+
+body{
+	/* Set height of the body to 100% -- separated out of html to allow scrollTo animation */
+	height: 100%;
+	margin: 0px;
+}
+
+/*
+Navigation Bar
+*/
+#nav{
+	/* Fix navigation bar at the top middle of the web page */
+    position: fixed;
+    /* calc() CSS function calculates numbers of different units */
+    left: calc(50% - 50px);
+    top: 750px;
+    /* Display nav bar on top of everything else */
+    z-index: 1;
+}
+
+.nav-btn{
+	width: 20px;
+    height: 20px;
+    /* Make square div into a circle */
+    border-radius: 50%;
+    background-color: beige;
+    border: 1px solid black;
+    display: inline-block;
+    cursor: pointer;
+    /* transition changes in background-color */
+    transition: background-color 0.5s;
+}
+
+/* When a nav-btn is hovered on, set background-color to black */
+.nav-btn:hover{
+	background-color: black;
+}
+
+/*
+Parallax: Image1, Image2, Image3, and Image4 sections;
+*/
+#image1, #image2, #image3, #image4, #image5, #image6, #image7, #image8{
+	/* Set height of div to 100% */
+	height: 100%;
+	/* The bottom three background CSS settings create parallax effect */
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+
+#image1{
+	/* Set background image of Image1 section using url() function */
+	background:hsla(0, 85%, 69%, 1);
+
+background: linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(0, 54%, 93%, 1) 0%);
+
+background: -moz-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(0, 54%, 93%, 1) 0%);
+
+background: -webkit-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(0, 54%, 93%, 1) 0%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F36E6E", endColorstr="#F7E4E4", GradientType=1 );
+}
+
+#image2{
+  background: hsla(0, 85%, 69%, 1);
+
+background: linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(34, 90%, 92%, 1) 0%);
+
+background: -moz-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(34, 90%, 92%, 1) 0%);
+
+background: -webkit-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(34, 90%, 92%, 1) 0%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F36E6E", endColorstr="#FDEDD8", GradientType=1 );
+}
+
+#image3{
+  background: hsla(0, 85%, 69%, 1);
+
+background: linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(47, 89%, 93%, 1) 0%);
+
+background: -moz-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(47, 89%, 93%, 1) 0%);
+
+background: -webkit-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(47, 89%, 93%, 1) 0%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F36E6E", endColorstr="#FDF6DC", GradientType=1 );
+}
+
+#image4{
+  background:hsla(0, 85%, 69%, 1);
+
+background: linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(0, 54%, 93%, 1) 0%);
+
+background: -moz-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(0, 54%, 93%, 1) 0%);
+
+background: -webkit-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(0, 54%, 93%, 1) 0%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F36E6E", endColorstr="#F7E4E4", GradientType=1 );
+}
+
+#image5{
+  background: hsla(0, 85%, 69%, 1);
+
+background: linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(34, 90%, 92%, 1) 0%);
+
+background: -moz-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(34, 90%, 92%, 1) 0%);
+
+background: -webkit-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(34, 90%, 92%, 1) 0%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F36E6E", endColorstr="#FDEDD8", GradientType=1 );
+}
+
+#image6{
+  background: hsla(0, 85%, 69%, 1);
+
+background: linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(47, 89%, 93%, 1) 0%);
+
+background: -moz-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(47, 89%, 93%, 1) 0%);
+
+background: -webkit-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(47, 89%, 93%, 1) 0%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F36E6E", endColorstr="#FDF6DC", GradientType=1 );
+}
+
+#image7{
+  background:hsla(0, 85%, 69%, 1);
+
+background: linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(0, 54%, 93%, 1) 0%);
+
+background: -moz-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(0, 54%, 93%, 1) 0%);
+
+background: -webkit-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(0, 54%, 93%, 1) 0%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F36E6E", endColorstr="#F7E4E4", GradientType=1 );
+}
+
+#image8{
+  background: hsla(0, 85%, 69%, 1);
+
+background: linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(34, 90%, 92%, 1) 0%);
+
+background: -moz-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(34, 90%, 92%, 1) 0%);
+
+background: -webkit-linear-gradient(90deg, hsla(0, 85%, 69%, 1) 0%, hsla(34, 90%, 92%, 1) 0%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F36E6E", endColorstr="#FDEDD8", GradientType=1 );
+}
+
+/*
+Text sections after Image1, Image2, Image3, and Image4 sections
+*/
+.text-section{
+	/* Center text in the middle of browser using flexbox */
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.text{
+	width: 70%;
+	color: black;
+  font-size: 100px;
+  text-align: center;
+	background-color: hsla(26, 58%, 23%, 1);
+
+background: linear-gradient(90deg, hsla(26, 58%, 23%, 1) 0%, hsla(30, 62%, 95%, 1) 0%);
+
+background: -moz-linear-gradient(90deg, hsla(26, 58%, 23%, 1) 0%, hsla(30, 62%, 95%, 1) 0%);
+
+background: -webkit-linear-gradient(90deg, hsla(26, 58%, 23%, 1) 0%, hsla(30, 62%, 95%, 1) 0%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#5E3719", endColorstr="#FAF2EA", GradientType=1 );}
